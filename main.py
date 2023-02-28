@@ -12,5 +12,11 @@ ch = Chinchilla("xcvbnm", 2, 0.5)
 
 
 
+print("hvfheir", "evhue")
+
+
+
+
+
 
 
